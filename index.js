@@ -49,7 +49,7 @@ function iLoveTheBeatles(num){
     y.push("I love the Beatles!");
    var  a = y.push("I love the Beatles!");
   }
-  while(num==7){
+  while(num7){
    console.log("I love the Beatles!");
    num++;
     
